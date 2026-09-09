@@ -1,0 +1,11 @@
+[
+    {
+        "label": "test_add",
+        "kind": 2,
+        "importPath": "test_sample",
+        "description": "test_sample",
+        "peekOfCode": "def test_add():\n    assert 2 + 2 == 5",
+        "detail": "test_sample",
+        "documentation": {}
+    }
+]
